@@ -50,7 +50,7 @@ Watch the rocket's performance:
 ## How to Run
 ### Steps
 1. Clone the repository:
-   git clone https://github.com/YOUR_GITHUB_USERNAME/RocketLanding_NeuralNetwork.git
+   git clone https://github.com/DArmandoSalinas/RocketLanding_NeuralNetwork.git
    
 2. Download the folder called `OneDrive_2024-11-25`:
    https://drive.google.com/file/d/1k2GwVDpFpAoaO1UfU88ZyHfQCF3xXNdr/view?usp=drive_link
